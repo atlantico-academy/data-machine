@@ -1,0 +1,13 @@
+variavel,descrição,tipo,subtipo
+Gender,O gênero da pessoa (Masculino/Feminino),qualitativa,nominal
+Age,A idade da pessoa em anos,quantitativa,discreta
+Occupation,A ocupação ou profissão da pessoa,qualitativa,nominal
+Sleep Duration,O número de horas que a pessoa dorme por dia,quantitativa,discreta
+Quality of Sleep,"Uma classificação subjetiva da qualidade do sono, variando de 1 a 10",quantitativa,discreta
+Physical Activity Level,O número de minutos que a pessoa pratica atividade física diariamente,quantitativa,discreta
+Stress Level,"Uma classificação subjetiva do nível de estresse experimentado pela pessoa, variando de 1 a 10",quantitativa,discreta
+BMI Category,"A categoria de IMC da pessoa (por exemplo, Abaixo do Peso, Normal, Sobrepeso)",qualitativa,ordinal
+Blood Pressure,"A medição da pressão arterial da pessoa, indicada como pressão sistólica sobre pressão diastólica",quantitativa,discreta
+Heart Rate,A frequência cardíaca em repouso da pessoa em batimentos por minuto,quantitativa,discreta
+Daily Steps,O número de passos que a pessoa dá por dia,quantitativa,discreta
+Sleep Disorder," A presença ou ausência de um distúrbio do sono na pessoa (Nenhum, Insônia, Apneia do Sono",qualitativa,nominal
