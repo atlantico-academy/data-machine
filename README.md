@@ -12,7 +12,7 @@ Dormir pouco ou mal aumenta o risco de doenças cardiovasculares e metabólicas.
 
 
 ## Desenvolvedores
- - [Luana Oliveira da Silva](https://github.com/luanaoliveira-#1)
+ - [Luana Oliveira da Silva](https://github.com/luanaoliveira)
  - [Marjori Schmit](url-do-github-do-desenvolvedor-#2)
  - [Ruan Carlos](url-do-github-do-desenvolvedor-#3)
  - [Salete Yara](url-do-github-do-desenvolvedor-#4)
